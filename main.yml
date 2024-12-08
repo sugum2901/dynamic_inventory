@@ -1,8 +1,0 @@
----
-- name: working inventory
-  hosts: dev
-  tasks:
-    - name: copy the content to index.html
-      ansible.builtin.copy:
-        content: "Sun set down in east"
-        dest: /etc/motd.d/banner
