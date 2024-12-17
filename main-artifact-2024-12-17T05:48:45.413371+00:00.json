@@ -6,11 +6,11 @@
             "pattern": "dev",
             "play": "creating inventory",
             "play_pattern": "dev",
-            "play_uuid": "c624c003-c287-a898-10a5-000000000005",
+            "play_uuid": "464544ab-174e-fa16-5e9d-000000000005",
             "playbook": "/home/student/dynamic_inventory/main.yml",
-            "playbook_uuid": "ad0cb8b1-bf35-4324-8b33-888f82d33d5f",
+            "playbook_uuid": "5bd9d290-1b73-4773-a7a0-3b279aa1490a",
             "tasks": [],
-            "uuid": "c624c003-c287-a898-10a5-000000000005"
+            "uuid": "464544ab-174e-fa16-5e9d-000000000005"
         }
     ],
     "settings_entries": {
